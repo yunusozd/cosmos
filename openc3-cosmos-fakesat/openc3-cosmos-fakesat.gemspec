@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
     openc3-cosmos-fakesat plugin for deployment to OpenC3
   EOF
   s.license = 'MIT'
-  s.authors = ['Anonymous']
+  s.authors = ['Yunus']
   s.email = ['name@domain.com']
   s.homepage = 'https://github.com/OpenC3/cosmos'
   s.platform = Gem::Platform::RUBY

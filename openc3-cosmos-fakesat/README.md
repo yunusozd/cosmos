@@ -1,4 +1,4 @@
-# OpenC3 COSMOS Plugin as
+# OpenC3 COSMOS Plugin
 
 See the [OpenC3](https://openc3.com) documentation for all things OpenC3.
 
