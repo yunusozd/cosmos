@@ -1,0 +1,3 @@
+[submodule "openc3-cosmos-cfdp"]
+	path = openc3-cosmos-cfdp
+	url = git@github.com:yunusozd/openc3-cosmos-cfdp.git
