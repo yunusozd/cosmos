@@ -55,6 +55,8 @@ OpenC3 COSMOS is built and maintained by Ryan Melton (ryanmelt) and Jason Thomas
 
 ## Getting Started
 
+0. Do not forget to include submodules! To do that: add "--recurse-submodules" to your git clone command.
+
 1.  See the [Installation Guide](https://docs.openc3.com/docs/getting-started/installation) for detailed instructions.
 
 1.  Follow the [Getting Started](https://docs.openc3.com/docs/getting-started/gettingstarted) to start developing your configuration.

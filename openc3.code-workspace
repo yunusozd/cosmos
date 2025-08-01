@@ -2,36 +2,6 @@
   "folders": [
     {
       "path": "."
-    },
-    {
-      "path": "../cosmos-project"
-    },
-    {
-      "path": "../cosmos-enterprise"
-    },
-    {
-      "path": "../cosmos-enterprise-project"
-    },
-    {
-      "path": "../cosmos-enterprise-plugins"
-    },
-    {
-      "path": "../openc3-news"
-    },
-    {
-      "path": "../openc3-cosmos-cfdp"
-    },
-    {
-      "path": "../app-store"
-    },
-    {
-      "path": "../openc3-cosmos-script-engine-cstol"
-    },
-    {
-      "path": "../openc3-cosmos-load-sim"
-    },
-    {
-      "path": "../openc3-schedule"
     }
   ],
   "settings": {
